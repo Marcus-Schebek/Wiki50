@@ -1,0 +1,4 @@
+<h1>Django</h1>
+<p>Django is a web framework written using <a href="/wiki/Python">Python</a> that allows for the design of web applications that generate <a href="/wiki/HTML">HTML</a> dynamically. 
+
+<h2> manu é meu amor todinho</h2>
